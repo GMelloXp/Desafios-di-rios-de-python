@@ -43,4 +43,21 @@ if possui_cupom == "S":
           )
 
 else:
-  None
+  if valor_pedido < 100:
+    frete = 12.00
+    valor_total_pedido = valor_pedido + frete
+    print(
+          f"Valor do pedido: R${valor_pedido:.2f}\n"
+          f"Possui Cupom? (S/N): {possui_cupom}\n"
+          f"Frete: R${frete:.2f}\n"
+          f"Total final: R${valor_total_pedido:.2f}"
+         )
+  else:
+    frete = 0
+    valor_total_pedido = valor_pedido + frete
+    print(
+          f"Valor do pedido: R${valor_pedido:.2f}\n"
+          f"Possui Cupom? (S/N): {possui_cupom}\n"
+          f"Frete: R${frete:.2f}\n"
+          f"Total final: R${valor_total_pedido:.2f}"
+         )
