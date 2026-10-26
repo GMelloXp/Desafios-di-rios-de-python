@@ -24,8 +24,8 @@ O programa deve:
 Considere entradas inteiras e não negativas.
 
 Casos para conferir
-Minutos nos cinco dias	Total	Horas e minutos	Média	Resultado
-60, 45, 90, 30, 75	300	5h 0min	60,0	Meta alcançada
-30, 30, 30, 30, 30	150	2h 30min	30,0	Faltaram 150 minutos
-61, 0, 0, 0, 0	61	1h 1min	12,2	Faltaram 239 minutos
-
+| Minutos nos cinco dias| Total| Horas e minutos| Média | Resultado |
+| -------- | -------- | -------- | -------- | -------- |
+| 60, 45, 90, 30, 75  | 300  | 5h 0min  | 60,0 | Meta alcançada
+| 30, 30, 30, 30, 30 | 150   | 2h 30min  | 30,0 | Faltaram 150 minutos
+| 61, 0, 0, 0, 0 | 61 | 1h 1min | 12,2 | Faltaram 239 minutos |
