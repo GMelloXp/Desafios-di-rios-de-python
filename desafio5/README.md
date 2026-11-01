@@ -14,11 +14,11 @@ Para encontrar o maior valor, mantenha um “maior até agora”. Cada nova entr
 Diferentemente de um acumulador, você não soma os valores: guarda o melhor resultado encontrado.
 
 ## Casos para conferir
-| Entradas dos dias 1 a 5| Maior quantidade| Dia esperado|
-| -------- | -------- | -------- | -------- | -------- |
+| Entradas dos dias 1 a 5| Maior quantidade| Dia esperado |
+| -------- | -------- | -------- |
 | 12, 18, 9, 18, 7  | 18  | 2 |
-| 20, 15, 10, 5, 0 | 20   | 1  |
-| 1, 2, 3, 4, 5| 5 | 1h 1min | 5 |
+| 20, 15, 10, 5, 0 | 20  | 1  |
+| 1, 2, 3, 4, 5| 5 | 5 |
 
 
 ### Dica 1:
