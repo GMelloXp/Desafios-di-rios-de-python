@@ -21,6 +21,7 @@ Não é necessário verificar sobrenome ou restringir caracteres. Neste exercíc
 As aspas abaixo apenas delimitam as entradas; não devem ser digitadas.
 
 | Entradas, em ordem | Nome cadastrado |	Recusadas |
+| ------------------ | --------------- | ---------- |
 | "Gabriel" |	Gabriel |	0 |
 | "  Ana  " | Ana | 0 |
 | "", "   ", "Bruno" |	Bruno |	2 |
